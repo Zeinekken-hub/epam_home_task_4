@@ -1,0 +1,11 @@
+C:\Users\Omen\Desktop\Epamhometask3\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask3.exe
+C:\Users\Omen\Desktop\Epamhometask3\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask3.deps.json
+C:\Users\Omen\Desktop\Epamhometask3\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask3.runtimeconfig.json
+C:\Users\Omen\Desktop\Epamhometask3\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask3.runtimeconfig.dev.json
+C:\Users\Omen\Desktop\Epamhometask3\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask3.dll
+C:\Users\Omen\Desktop\Epamhometask3\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask3.pdb
+C:\Users\Omen\Desktop\Epamhometask3\EpamHometask2\obj\Debug\netcoreapp3.0\EpamHometask3.csprojAssemblyReference.cache
+C:\Users\Omen\Desktop\Epamhometask3\EpamHometask2\obj\Debug\netcoreapp3.0\EpamHometask3.AssemblyInfoInputs.cache
+C:\Users\Omen\Desktop\Epamhometask3\EpamHometask2\obj\Debug\netcoreapp3.0\EpamHometask3.AssemblyInfo.cs
+C:\Users\Omen\Desktop\Epamhometask3\EpamHometask2\obj\Debug\netcoreapp3.0\EpamHometask3.dll
+C:\Users\Omen\Desktop\Epamhometask3\EpamHometask2\obj\Debug\netcoreapp3.0\EpamHometask3.pdb

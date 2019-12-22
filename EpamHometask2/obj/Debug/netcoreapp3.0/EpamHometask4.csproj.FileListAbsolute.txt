@@ -1,0 +1,10 @@
+C:\Users\Omen\Desktop\epamhometask4\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask4.exe
+C:\Users\Omen\Desktop\epamhometask4\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask4.deps.json
+C:\Users\Omen\Desktop\epamhometask4\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask4.runtimeconfig.json
+C:\Users\Omen\Desktop\epamhometask4\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask4.runtimeconfig.dev.json
+C:\Users\Omen\Desktop\epamhometask4\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask4.dll
+C:\Users\Omen\Desktop\epamhometask4\EpamHometask2\bin\Debug\netcoreapp3.0\EpamHometask4.pdb
+C:\Users\Omen\Desktop\epamhometask4\EpamHometask2\obj\Debug\netcoreapp3.0\EpamHometask4.AssemblyInfoInputs.cache
+C:\Users\Omen\Desktop\epamhometask4\EpamHometask2\obj\Debug\netcoreapp3.0\EpamHometask4.AssemblyInfo.cs
+C:\Users\Omen\Desktop\epamhometask4\EpamHometask2\obj\Debug\netcoreapp3.0\EpamHometask4.dll
+C:\Users\Omen\Desktop\epamhometask4\EpamHometask2\obj\Debug\netcoreapp3.0\EpamHometask4.pdb
